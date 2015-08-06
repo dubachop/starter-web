@@ -15,6 +15,8 @@ As stated above, the main purpose is to provide a simple example of using git wi
 We will learn how to deploy the files using git and push to GitHub.
 ## How To Contribute
 
+Please fork this repository and then issue Pull Request for review.
+
 ## Copyright
 
 2015 Git.Training
