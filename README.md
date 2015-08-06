@@ -8,6 +8,9 @@ This example is to show different parts of the Git repository and various comman
 
 ## Purpose
 
+As stated above, the main purpose is to provide a simple example of using git with a web project.
+
 ## Deployment
 
+We will learn how to deploy the files using git and push to GitHub.
 ## How To Contribute
