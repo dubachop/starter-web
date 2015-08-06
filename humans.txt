@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Phillip Duba dubap@email.chop.edu @philduba
 
 # THANKS
 
